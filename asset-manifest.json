@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Demo_monster-React/static/css/main.a5181eea.chunk.css",
+    "main.js": "/Demo_monster-React/static/js/main.7f378488.chunk.js",
+    "main.js.map": "/Demo_monster-React/static/js/main.7f378488.chunk.js.map",
+    "runtime-main.js": "/Demo_monster-React/static/js/runtime-main.f2eeab05.js",
+    "runtime-main.js.map": "/Demo_monster-React/static/js/runtime-main.f2eeab05.js.map",
+    "static/js/2.aacc228d.chunk.js": "/Demo_monster-React/static/js/2.aacc228d.chunk.js",
+    "static/js/2.aacc228d.chunk.js.map": "/Demo_monster-React/static/js/2.aacc228d.chunk.js.map",
+    "static/js/3.651b7d5d.chunk.js": "/Demo_monster-React/static/js/3.651b7d5d.chunk.js",
+    "static/js/3.651b7d5d.chunk.js.map": "/Demo_monster-React/static/js/3.651b7d5d.chunk.js.map",
+    "index.html": "/Demo_monster-React/index.html",
+    "static/css/main.a5181eea.chunk.css.map": "/Demo_monster-React/static/css/main.a5181eea.chunk.css.map",
+    "static/js/2.aacc228d.chunk.js.LICENSE.txt": "/Demo_monster-React/static/js/2.aacc228d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Demo_monster-React/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2eeab05.js",
+    "static/js/2.aacc228d.chunk.js",
+    "static/css/main.a5181eea.chunk.css",
+    "static/js/main.7f378488.chunk.js"
+  ]
+}
